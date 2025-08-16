@@ -1,4 +1,4 @@
-# 🌱 EcoChain - Decentralized Carbon Credit Marketplace (I will join team from 2025)
+# 🌱 EcoChain - Decentralized Carbon Credit Marketplace
 
 A Web3 platform combining IoT, AI, and blockchain technology for transparent carbon credit trading.
 
